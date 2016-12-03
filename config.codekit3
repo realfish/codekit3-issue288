@@ -3,15 +3,15 @@
 "buildSteps": [
 	{
 		"itemsToProcess": [
-			"\/manuscripts\/3-chapters\/chapter-5-4.md",
-			"\/manuscripts\/3-chapters\/chapter-5-3.md",
-			"\/manuscripts\/3-chapters\/chapter-2-3.md",
-			"\/manuscripts\/3-chapters\/chapter-5-1.md",
-			"\/manuscripts\/3-chapters\/chapter-2-2.md",
 			"\/manuscripts\/3-chapters\/chapter-5-2.md",
+			"\/manuscripts\/3-chapters\/chapter-5-4.md",
+			"\/manuscripts\/3-chapters\/chapter-2-2.md",
 			"\/manuscripts\/3-chapters\/chapter-2-1.md",
-			"\/manuscripts\/3-chapters\/chapter-5.md",
-			"\/manuscripts\/3-chapters\/chapter-2.md"
+			"\/manuscripts\/3-chapters\/chapter-2.md",
+			"\/manuscripts\/3-chapters\/chapter-5-3.md",
+			"\/manuscripts\/3-chapters\/chapter-5-1.md",
+			"\/manuscripts\/3-chapters\/chapter-2-3.md",
+			"\/manuscripts\/3-chapters\/chapter-5.md"
 			],
 		"name": "New \"Process Certain Files\" Step",
 		"stepType": 0,
@@ -209,7 +209,7 @@
 	"displayValue": "codekit3-issue288",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_purple",
-	"lastBuiltDate": 502422887
+	"lastBuiltDate": 502423725
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
